@@ -1,0 +1,66 @@
+
+
+
+
+body { 
+    background-color: 
+    color: 
+    margin: 0;
+    padding: 0;
+    align-content: left;
+}
+
+
+
+
+
+</style>
+
+#img {
+    align:right;
+}
+
+
+
+
+}
+#moviepic {
+    float: right;
+    margin: 0 10px 0 20px;
+}
+
+#telepic {
+    float: right;
+    margin: 0 10px 0 20px;
+}
+#hopeED {
+    float: right;
+    margin: 0 10px 0 20px;
+}
+
+nav {
+    position: absolute;
+    right: 2em;
+    top: 3em;
+}
+
+.navItem {
+    color: #252217;
+    background-color: blue
+    padding: 
+    font-size: 5em;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 2em;
+    border: cornnsilk 3px groove;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+mark {
+    background-color: red;
+    color: black;
+}
