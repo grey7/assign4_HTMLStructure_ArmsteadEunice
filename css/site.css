@@ -2,15 +2,19 @@
 
 
 
-body { 
-    background-color: 
-    color: 
-    margin: 0;
-    padding: 0;
-    align-content: left;
+body  {margin: 10px 5px 15px 20px;
+    font-size: 100%;
+}
+   
+
+h2 {
+            color: violet
 }
 
-
+p {
+    font-size: 0.2in;
+    line-height: 0.5in;
+}
 
 
 
